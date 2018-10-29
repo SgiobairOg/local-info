@@ -1,0 +1,22 @@
+{
+  "name": "local-info",
+  "version": "1.0.0",
+  "description": "Aids in localization of sites by providing common national properties based on standard country codes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SgiobairOg/local-info.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Jason Wilson <jason@wilsons.io> (https://www.wilsons.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SgiobairOg/local-info/issues"
+  },
+  "homepage": "https://github.com/SgiobairOg/local-info#readme"
+}
