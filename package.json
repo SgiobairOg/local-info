@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/SgiobairOg/local-info/issues"
   },
-  "homepage": "https://github.com/SgiobairOg/local-info#readme"
+  "homepage": "https://github.com/SgiobairOg/local-info#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
 }
